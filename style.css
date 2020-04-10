@@ -11,13 +11,6 @@ body{
     justify-content: center;
 }
 
-
-img{
-	
-	width: 120px;
-	height:120px;
-}
-
 .logo{
 	margin: -20px;
 	display: flex;
